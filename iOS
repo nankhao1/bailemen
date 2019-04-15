@@ -1,0 +1,12 @@
+    
+{
+    "updateUrl":"https://download.weilaiyule.top/bailemen/install.html",
+    "domainUrl":"http://mobile.webrtcdev.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
